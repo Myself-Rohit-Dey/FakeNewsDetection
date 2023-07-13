@@ -1,3 +1,3 @@
 [build]
 command = "python wsgi.py"
-publish = ["static","templates"]
+publish = "static templates"
