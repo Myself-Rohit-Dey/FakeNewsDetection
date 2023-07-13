@@ -1,3 +1,0 @@
-[build]
-command = "gunicorn wsgi:application"
-publish = "static templates"

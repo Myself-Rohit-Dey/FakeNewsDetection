@@ -3,6 +3,3 @@ news.csv
 .ipynb_checkpoints
 __pycache__
 build
-netlify.toml
-news.csv
-wsgi.py
